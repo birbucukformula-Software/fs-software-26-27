@@ -4,7 +4,6 @@
 
 İnternette bilgi çok, doğru bilgi az. Bir mühendisin en önemli becerilerinden biri, merak ettiği bir konuyu doğru yöntemle araştırıp güvenilir bilgiye ulaşabilmesidir. Ancak her araştırma aynı yöntemle yapılmaz: Bir makale yazarken izlenen yol ile bir donanım sorununu çözerken izlenen yol farklıdır.
 
-Bu görevde araştırmanın hem akademik hem de akademik olmayan yöntemlerle nasıl yapıldığını araştırıp takımınıza anlatacaksınız.
 
 ## 🛠️ İstenen İçerik: Sunum Akışı
 
