@@ -1,4 +1,4 @@
-# 🤖 Görev 3: Yapay Zekayı Verimli Kullanma, Prompt Mühendisliği ve AI Agent'lar
+# 🤖 Görev 3: Yapay Zekayı Verimli Kullanma ve AI Agent'lar
 
 ## 🎯 Amaç
 
