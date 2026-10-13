@@ -8,28 +8,20 @@ Bu görevde yapay zekanın nasıl verimli ve eleştirel kullanılacağını, iyi
 
 ## 🛠️ İstenen İçerik: Sunum Akışı
 
-Sunumunuzda aşağıdaki dört ana başlığı işlemeniz beklenmektedir.
+Sunumunuzda aşağıdaki ana başlıkları örnek alarak bir sunum hazırlayınız.
 
 ### Bölüm 1: Verimli Yapay Zeka Kullanımı
 
-- **Copilot yaklaşımı:** AI neden bir sihirbaz değil, çalışma ortağıdır? Geleneksel yöntemle AI destekli yöntem arasında hız ve kalite farkı nedir?
-- **Hallucination (yanılsama):** AI ne zaman uydurur? Buna karşı nasıl tetikte olunur?
-- **Kodlama ve hata ayıklama:** Kodu doğrudan yazdırmak yerine AI ile mantığı anlamak ve hata bulmak nasıl yapılır?
 
-### Bölüm 2: Prompt Mühendisliği
+### Bölüm 2: Bir Projede AI Nasıl Kullanılır
 
-- **Etkili prompt yapısı:** İyi bir komut hangi unsurları içerir?
-- **İleri teknikler:** Few-shot, Chain-of-Thought ve role-prompting nedir?
-- **Kötü prompt vs. iyi prompt:** Kendi seçtiğiniz bir senaryoda iki yaklaşımı deneyin, sonuçları gösterin ve farkı analiz edin.
 
 ### Bölüm 3: Otonom AI Agent'lar
 
-- **AI Agent nedir?** Standart bir LLM'den farkı nedir?
-- **Multi-agent sistemler:** Takım süreçlerine (yazılım geliştirme, veri analizi vb.) nasıl entegre edilebilir?
 
 ### Bölüm 4: Güncel Kullanım Alanları
 
-- **Sektörler:** Yapay zeka şu an hangi alanlarda aktif kullanılıyor?
+- **Sektörler:** Yapay zeka şu an hangi alanlarda aktif kullanılıyor? 
 - **Gerçek örnekler:** Başarı ve başarısızlık hikâyeleri nelerdir?
 
 ## 💡 Ek Katkılar
