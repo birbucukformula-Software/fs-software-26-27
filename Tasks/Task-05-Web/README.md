@@ -1,4 +1,4 @@
-# 🧭 Görev 3: Yazılım Birimlerini Tanıyalım
+# 🧭 Görev 5: Yazılım Birimlerini Tanıyalım
 
 ## 🎯 Amaç
 Yazılım ekibimiz dört alt birimden oluşuyor: **Web, Oyun, Gömülü ve Otonom**. Takım projelerinde birimlerin birbiriyle uyum içinde çalışması gerekir. Bu görevde hem hangi alanda ilerlemek istediğinizi netleştirmenizi hem de takımı ve birimleri daha yakından tanımanızı istiyoruz.
