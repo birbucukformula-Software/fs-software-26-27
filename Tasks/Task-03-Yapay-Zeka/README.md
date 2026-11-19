@@ -43,3 +43,50 @@ Yukarıdaki başlıklar sunum için bir çerçeve çizmektedir; sunumunuzu bunla
    `feat: Task-YapayZeka- sunumu eklendi`
 
 4. Ana depoya bir Pull Request (PR) açın.
+
+
+
+# 🤖 Task 3: Using AI Efficiently & AI Agents
+
+## 🎯 Objective
+
+Artificial intelligence is not just a search engine or a homework machine. Used correctly, it becomes an engineering assistant; used incorrectly, it can be misleading.
+
+In this task, you will research how to use AI efficiently and critically, what good prompt writing looks like, and what AI Agents are, and then present your findings to the team.
+
+## 🛠️ Required Content: Presentation Outline
+
+Prepare a presentation using the main sections below as a guide.
+
+### Section 1: Using AI Efficiently
+
+### Section 2: How to Use AI in a Project
+
+### Section 3: Autonomous AI Agents
+
+### Section 4: Current Use Cases
+
+- **Industries:** In which fields is AI actively used today?
+- **Real-world examples:** What are some success and failure stories?
+
+## 💡 Additional Contributions
+
+The sections above provide a framework for your presentation; you are not required to limit yourself to them. You may include topics you find important during your research, takeaways from your own experiences, and any additional methods or examples you would like to share.
+
+You are expected to add your own contribution and perspective to the presentation.
+
+## 📤 Submission Format
+
+1. Convert your presentation to PDF. Name the file in the following format:
+
+   `YapayZeka-[FirstName]-[LastName].pdf`
+
+2. In your forked `fsae-software-bootcamp` repository, create the folder below and upload your PDF file into it:
+
+   `Submissions/Submission-YapayZeka-[FirstName]-[LastName]/`
+
+3. Use the following commit message:
+
+   `feat: Task-YapayZeka- sunumu eklendi`
+
+4. Open a Pull Request (PR) to the main repository.
